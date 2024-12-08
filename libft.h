@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   libft.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: gtome-ve <gtome-ve@student.42lisboa.com    +#+  +:+       +#+        */
+/*   By: gtome-ve <gtome-ve@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/08 15:39:02 by gtome-ve          #+#    #+#             */
-/*   Updated: 2024/12/08 15:39:02 by gtome-ve         ###   ########.fr       */
+/*   Updated: 2024/12/08 17:58:41 by gtome-ve         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,8 +20,6 @@
 # include <stdint.h>
 # include <stdlib.h>
 # include <ctype.h>
-# include <bsd/string.h>
-
 
 int		ft_isalpha(int c);
 int		ft_isdigit(int value);
